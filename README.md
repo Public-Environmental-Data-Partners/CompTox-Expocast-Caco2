@@ -1,3 +1,5 @@
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
+
 # Supplemental Material
 
 ## Impact of Gut Permeability on Estimation of Oral Bioavailability for Chemicals in Commerce and the Environment
